@@ -1,1 +1,1 @@
-# manikandan
+product inventory management
